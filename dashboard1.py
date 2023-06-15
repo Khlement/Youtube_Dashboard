@@ -47,7 +47,6 @@ def load_data():
     df_agg['Video publish time'] = pd.to_datetime(df_agg['Video publish time'], format='%b %d, %Y', errors='coerce')
     df_agg['Average view duration'] = pd.to_timedelta(df_agg['Average view duration'])
     df_agg['Avg_duration_sec'] = df_agg['Average view duration'].dt.total_seconds()
-    df_agg['Avg_duration_sec'] = df_agg['Average view duration'].apply(lambda x: x.second + x.minute*60 + x.hour*3600)
     df_agg['Engagement_ratio'] = (df_agg['Comments added'] + df_agg['Shares'] + df_agg['Dislikes'] + df_agg['Likes']) / df_agg['Views']
     df_agg['Views / sub gained'] = df_agg['Views'] / df_agg['Subscribers gained']
     df_agg.sort_values('Video publish time', ascending=False, inplace=True)    
