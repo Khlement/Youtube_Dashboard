@@ -9,6 +9,12 @@
 ## Dataset
 **Datasets source**: https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data
 
+## Accessing the Dashboard
+* This project can be accessed local on a local computer 
+* Download all the required python codes and datasets from this github repo
+* Install streamlit library on local computer
+* On an anaconda prompt or command prompt change directory to the location where you stored the python code and dataset
+* Run streamlit by typing *streamlit run dashboard1.py*
 
 
 
