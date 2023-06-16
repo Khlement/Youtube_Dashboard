@@ -18,6 +18,6 @@
 
 
 
-<img src="https://github.com/Khlement/Youtube_Dashboard/assets/87413037/d491b70e-7e74-48fc-a0d3-2b0c061d1001" width="600" height="400">
+<img src="https://github.com/Khlement/Youtube_Dashboard/assets/87413037/d491b70e-7e74-48fc-a0d3-2b0c061d1001" width="800" height="400">
 
 
