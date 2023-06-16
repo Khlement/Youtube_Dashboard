@@ -10,7 +10,7 @@
 **Datasets source**: https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data
 
 ## Accessing the Dashboard
-* This project can be accessed local on a local computer 
+* This project can be accessed locally on a local computer 
 * Download all the required python codes and datasets from this github repo
 * Install streamlit library on local computer
 * On an anaconda prompt or command prompt change directory to the location where you stored the python code and dataset
@@ -18,6 +18,6 @@
 
 
 
-<img src="https://github.com/Khlement/Instagram-image-color-tone-classification/assets/87413037/f4ec7b7d-555b-48b4-884a-d0bc5cbbd012" width="200" height="200">
+<img src="https://github.com/Khlement/Youtube_Dashboard/assets/87413037/d491b70e-7e74-48fc-a0d3-2b0c061d1001" width="600" height="400">
 
 
